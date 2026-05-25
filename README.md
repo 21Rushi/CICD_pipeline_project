@@ -487,6 +487,9 @@ pm2 list
 
 ## Screenshots Included
 
+links : https://docs.google.com/document/d/1WzWsH_RI1tVyfW1xaNG5Oo58hhMQgLyEbMeF3Dk6JaM/edit?tab=t.wrz9m7vyus06
+
+
 ### AWS
 - Running EC2 Instance
 
